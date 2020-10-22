@@ -74,6 +74,7 @@ mukul Shrestha
 Neeraj Lamsal
 sewak Gautam
 Sujan Parajuli (https://github.com/sujanp100)
+Rajesh Pudasaini (https://github.com/razyesh)
 Rewan Gautam (https://github.com/gtmray)
 Shuvam Adhikari
 Pradhan Agni
